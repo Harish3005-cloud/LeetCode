@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Harish3005-cloud/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Harish3005-cloud/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
