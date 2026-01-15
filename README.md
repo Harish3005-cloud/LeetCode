@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Harish3005-cloud/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -80,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
