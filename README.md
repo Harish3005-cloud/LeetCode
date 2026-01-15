@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Harish3005-cloud/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Harish3005-cloud/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Harish3005-cloud/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
