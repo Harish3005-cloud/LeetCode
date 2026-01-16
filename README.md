@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Harish3005-cloud/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Harish3005-cloud/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Harish3005-cloud/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Harish3005-cloud/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Harish3005-cloud/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Harish3005-cloud/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
