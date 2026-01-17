@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Harish3005-cloud/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Harish3005-cloud/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Harish3005-cloud/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harish3005-cloud/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Harish3005-cloud/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
