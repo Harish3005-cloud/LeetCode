@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Harish3005-cloud/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Harish3005-cloud/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
