@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Harish3005-cloud/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Harish3005-cloud/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Harish3005-cloud/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
