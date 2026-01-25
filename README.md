@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Harish3005-cloud/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Harish3005-cloud/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Harish3005-cloud/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harish3005-cloud/LeetCode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Harish3005-cloud/LeetCode/tree/master/0853-car-fleet) |
 ## Design
 |  |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Harish3005-cloud/LeetCode/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
