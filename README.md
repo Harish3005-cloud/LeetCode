@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harish3005-cloud/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Harish3005-cloud/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
