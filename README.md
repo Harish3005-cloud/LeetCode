@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Harish3005-cloud/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harish3005-cloud/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Harish3005-cloud/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harish3005-cloud/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Harish3005-cloud/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Harish3005-cloud/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Harish3005-cloud/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0509-fibonacci-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harish3005-cloud/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
