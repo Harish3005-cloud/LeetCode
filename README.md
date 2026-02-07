@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harish3005-cloud/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harish3005-cloud/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
