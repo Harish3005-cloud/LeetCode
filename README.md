@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Harish3005-cloud/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
