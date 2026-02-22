@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harish3005-cloud/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Harish3005-cloud/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harish3005-cloud/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish3005-cloud/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Harish3005-cloud/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Harish3005-cloud/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harish3005-cloud/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Harish3005-cloud/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harish3005-cloud/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
