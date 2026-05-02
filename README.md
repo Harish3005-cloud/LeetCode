@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Harish3005-cloud/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Harish3005-cloud/LeetCode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Harish3005-cloud/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Harish3005-cloud/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harish3005-cloud/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Harish3005-cloud/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0567-permutation-in-string) |
