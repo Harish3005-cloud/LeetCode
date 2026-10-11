@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harish3005-cloud/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Harish3005-cloud/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harish3005-cloud/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Harish3005-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/Harish3005-cloud/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Harish3005-cloud/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harish3005-cloud/LeetCode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Harish3005-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Harish3005-cloud/LeetCode/tree/master/0853-car-fleet) |
 ## Design
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harish3005-cloud/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Harish3005-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Harish3005-cloud/LeetCode/tree/master/0853-car-fleet) |
 ## Tree
 |  |
