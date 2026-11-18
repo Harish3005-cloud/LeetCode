@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harish3005-cloud/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Harish3005-cloud/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Harish3005-cloud/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Harish3005-cloud/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Harish3005-cloud/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Harish3005-cloud/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harish3005-cloud/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harish3005-cloud/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Harish3005-cloud/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harish3005-cloud/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harish3005-cloud/LeetCode/tree/master/0169-majority-element) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harish3005-cloud/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Harish3005-cloud/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Harish3005-cloud/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Harish3005-cloud/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Harish3005-cloud/LeetCode/tree/master/0322-coin-change) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harish3005-cloud/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harish3005-cloud/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 ## Quickselect
 |  |
 | ------- |
@@ -458,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Harish3005-cloud/LeetCode/tree/master/0056-merge-intervals) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
