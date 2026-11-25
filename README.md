@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Harish3005-cloud/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harish3005-cloud/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Harish3005-cloud/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harish3005-cloud/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harish3005-cloud/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harish3005-cloud/LeetCode/tree/master/0055-jump-game) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harish3005-cloud/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Harish3005-cloud/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harish3005-cloud/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harish3005-cloud/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harish3005-cloud/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harish3005-cloud/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harish3005-cloud/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harish3005-cloud/LeetCode/tree/master/0074-search-a-2d-matrix) |
