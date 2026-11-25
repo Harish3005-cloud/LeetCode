@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harish3005-cloud/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Harish3005-cloud/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Harish3005-cloud/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Harish3005-cloud/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harish3005-cloud/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harish3005-cloud/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harish3005-cloud/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Harish3005-cloud/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Harish3005-cloud/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Harish3005-cloud/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Harish3005-cloud/LeetCode/tree/master/0475-heaters) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Harish3005-cloud/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Harish3005-cloud/LeetCode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Harish3005-cloud/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harish3005-cloud/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Harish3005-cloud/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Harish3005-cloud/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Harish3005-cloud/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -470,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Harish3005-cloud/LeetCode/tree/master/0139-word-break) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Harish3005-cloud/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
